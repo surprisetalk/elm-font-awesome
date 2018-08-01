@@ -136,5 +136,5 @@ customFB
 - [elm-open-iconic](http:/package.elm-lang.org/packages/surprisetalk/elm-open-iconic/latest)
 
 ## Contributions
-- Feel free to [report bugs on Github](https:/github.com/surprisetalk/elm-icon/issues).
-- If you have any suggestions on how to make the API more friendly, please reach out to me at [surprisetalk@gmail.com](surprisetalk@gmail.com).
+- Feel free to [report bugs on Github](https:/github.com/surprisetalk/elm-font-awesome/issues).
+- If you have any suggestions on how to make the API more friendly, please reach out to me at [surprisetalk@gmail.com](mailto:surprisetalk@gmail.com).
