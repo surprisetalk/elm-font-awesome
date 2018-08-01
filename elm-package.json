@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "summary": "Font Awesome helpers and constructors",
+  "summary": "Font Awesome icons, helpers, and constructors.",
   "repository": "https://github.com/surprisetalk/elm-font-awesome.git",
   "license": "BSD3",
   "source-directories": [
