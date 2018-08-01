@@ -10,6 +10,7 @@ It comes with a stylesheet and icons helpers:
   <i class="fab fa-internet-explorer"></i>
   <i class="fas fa-briefcase"></i>
 </div>
+
 ```elm
 import FontAwesome
   exposing ( stylesheet
@@ -154,6 +155,7 @@ You can also make new icons by "cutting" them from one another:
   <i class="fab fa-facebook-f" data-fa-transform="shrink-3.5 down-1.6 right-1.25" data-fa-mask="fas fa-circle" style="background:MistyRose"></i>
   <i class="fas fa-headphones" data-fa-transform="shrink-6" data-fa-mask="fas fa-square" style="background:MistyRose"></i>
 </div>
+
 ```elm
 import FontAwesome exposing (..)
 
